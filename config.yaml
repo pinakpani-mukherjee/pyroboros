@@ -1,0 +1,7 @@
+repos:
+  - org_name : Arkhon-Tech
+    repo_name : arkhon-bot-flows
+    prod_tag_format : "vn.n.n-production"
+    dev_tag_format : "vn.n.n-dev"
+    tag_path : prod
+    action : force
